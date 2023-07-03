@@ -1,4 +1,3 @@
-Another try of First PR !
 # Iron Fellowship
 
 Welcome! Iron Fellowship is an application for anyone playing the Tabletop RPG [Ironsworn](https://www.ironswornrpg.com/) to use.
@@ -72,3 +71,4 @@ VITE_FIREBASE_APPID=
 ```
 
 Also remember to enable Google Authentication as provider in your firebase project. You can do this by going to the Authentication tab in the firebase console.
+### xsgg 太强啦！
